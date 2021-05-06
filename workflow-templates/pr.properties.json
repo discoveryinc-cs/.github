@@ -1,0 +1,13 @@
+{
+    "name": "Content Systems Organization Workflow",
+    "description": "Conten Systems Organization CI workflow template.",
+    "iconName": "PR-ICON",
+    "categories": [
+        "NodeJs"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
