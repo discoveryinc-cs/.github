@@ -1,0 +1,11 @@
+omd_service:
+  - name: name # mandatory - predefined in the Temporary OMD Service Listing doc (https://docs.google.com/spreadsheets/d/1FNbvrvN4OhiQBhxw9XkGDcMoaPZQZKxV/)
+
+omd_microservice:
+  name: name # mandatory - predefined in the Temporary OMD Service Listing doc (https://docs.google.com/spreadsheets/d/1FNbvrvN4OhiQBhxw9XkGDcMoaPZQZKxV/)
+  designated_dependencies: # not mandatory - omd_microservices or omd_services that the current microservice depends on.
+    - name
+    - name2
+
+# Used for tracking the repository in WBD inventory. Do not remove or alter the content.
+inventory_id: 980162270ee0cf69c2e3a0a0a87dd93d-e8e885e0931c2c609d3059f840c02b70
