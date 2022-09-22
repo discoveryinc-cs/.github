@@ -1,6 +1,6 @@
 {
     "name": "Content Systems Organization Workflow",
-    "description": "Conten Systems Organization CI workflow template.",
+    "description": "Conten Systems Organization Test workflow template.",
     "iconName": "example-icon",
     "categories": [
         "Go"
