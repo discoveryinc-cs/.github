@@ -1,4 +1,4 @@
-name: Content Systems Organization CI
+name: Content Systems Organization Test
 
 on:
   push:
