@@ -5,7 +5,7 @@ omd_component:
   omd_type: platform
   description: platform
   omd_compliance: none
-  omd_cell: terraform or vantam
+  omd_cell: vantam
   subdivision_strategy: product
   omd_team: MSC DEVOPS Platform Eng
   omd_sdm_owner_email: sarath.chandra@wbd.com
